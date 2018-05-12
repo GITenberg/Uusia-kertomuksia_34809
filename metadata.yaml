@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '37248'
     url: http://www.gutenberg.org/2009/agents/37248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34809#Uusia-kertomuksia
 gutenberg_issued: '2011-01-01'
 gutenberg_type: Text
 identifiers:
