@@ -1,0 +1,36 @@
+_repo: Uusia-kertomuksia_34809
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Favorin, Hanna
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '36899'
+    url: http://www.gutenberg.org/2009/agents/36899
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thoresen, Magdalene
+    alias: Thoresen, Magdalena
+    birthdate: 1819
+    deathdate: 1903
+    gutenberg_agent_id: '37248'
+    url: http://www.gutenberg.org/2009/agents/37248
+description: ''
+gutenberg_issued: '2011-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34809'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+tableOfContents: 'Ensimmäinen vihko: Kirkossa. Olli-poika Lukne-talo -- Toinen vihko:
+  Niilo.'
+title: Uusia kertomuksia
+url: http://www.gutenberg.org/ebooks/34809
