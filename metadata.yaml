@@ -32,6 +32,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PT'
 - !lcsh 'Fiction'
+- GITenberg
 tableOfContents: 'Ensimmäinen vihko: Kirkossa. Olli-poika Lukne-talo -- Toinen vihko:
   Niilo.'
 title: Uusia kertomuksia
